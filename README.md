@@ -1,2 +1,2 @@
 # NoweRepo
-Repo treningowe.
+Repo treningowe, bedom paragony.
