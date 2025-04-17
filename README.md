@@ -1,0 +1,2 @@
+# NoweRepo
+Repo treningowe.
