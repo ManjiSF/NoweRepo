@@ -1,2 +1,3 @@
 # NoweRepo
 Repo treningowe.
+Gadziar.
