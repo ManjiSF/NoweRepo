@@ -1,3 +1,4 @@
 chleb 2
 szynka 5
 piwo 10
+soczek 4
